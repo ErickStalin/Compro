@@ -8,11 +8,7 @@ public class Main {
         listaVehiculo.add(new turismo("Hino","XNMNMY676",12,3));
         listaVehiculo.add(new autoBus("MS","X1ETYY676",12,3));
         listaVehiculo.add(new vehiculo("Tesla","X1ETYY676",12));
-        private void imprimirLista(listaVehiculo);
-        for(int i = 0; i < listaVehiculo.size();i++){
-        //HOLA
-            //KJL
-        }
+        System.out.println("Hola mundo");
 
 
     }
