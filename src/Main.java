@@ -10,7 +10,7 @@ public class Main {
         listaVehiculo.add(new vehiculo("Tesla","X1ETYY676",12));
         private void imprimirLista(listaVehiculo);
         for(int i = 0; i < listaVehiculo.size();i++){
-
+        //HOLA
         }
 
 
